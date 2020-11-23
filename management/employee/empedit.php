@@ -100,7 +100,7 @@ p {
    </head>
    <body >
    <div class="ta">
-	    	   <h1>Hotel Management Systems For Room Booking</h1>
+	    	   <h1>Hotel Management System For Room Booking</h1>
 	   
 	   <ul>
 	   
